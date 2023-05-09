@@ -31,8 +31,8 @@
     "undici": "5.21.2"
   },
   "devDependencies": {
-    "@commitlint/cli": "17.5.1",
-    "@commitlint/config-conventional": "17.4.4",
+    "@commitlint/cli": "17.6.3",
+    "@commitlint/config-conventional": "17.6.3",
     "@commitlint/config-nx-scopes": "17.4.3",
     "@commitlint/cz-commitlint": "17.5.0",
     "@prisma/client": "4.12.0",
